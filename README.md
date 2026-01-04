@@ -29,6 +29,6 @@ Permission: `mysthicCommandManager.admin`
 
 ## Installation
 
-1. Download the plugin Jar (TODO actually host it somewhere)
+1. Download the plugin Jar (see [Releases](https://github.com/Shopkeepers/Shopkeepers-ExecutableItems/releases))
 2. Place the Jar into your server's `plugins` folder
 3. Restart your server
