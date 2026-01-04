@@ -1,4 +1,4 @@
-# ShopkeepersEI - ExecutableItems integration for Shopkeepers
+# ShopkeepersEI - ExecutableItems integration for Shopkeepers ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Shopkeepers/Shopkeepers-ExecutableItems/total?style=flat-square&color=green)
 
 This is a Bukkit plugin that integrates **ExecutableItems** with the **Shopkeepers** plugin: With this plugin, shopkeepers can automatically update any ExecutableItems they contain to their latest version.
 
